@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Access Your Awesomeness with Adelle]]></title>
+        <description><![CDATA[Access Your Awesomeness with Adelle]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 13 Jan 2016 22:16:05 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Access Your Awesomeness with Adelle]]></title>
+            <description><![CDATA[<article><h1>Access Your Awesomeness with Adelle</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/0b5a5fa651a1ec334dfa80890f6c54b99c602417.jpg"></article>]]></description>
+            <link>undefinedaccess-your-awesomeness-with-adelle/index.html</link>
+            <guid isPermaLink="false">58f6e38d-bc63-4ef4-bb3b-451de33f1d34</guid>
+            <pubDate>Wed, 13 Jan 2016 22:15:55 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
