@@ -1,7 +1,7 @@
 name: Access Awesomeness
 favicon: null
-layout_spectrum: 0.034990150248631835
-typography_spectrum: 0.5377941080369055
+layout_spectrum: 0
+typography_spectrum: 0.44863
 title: Access Your Awesomeness with Adelle
 cta:
   domain: null
@@ -17,11 +17,11 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#71A7FE'
-    - '#399AE7'
-    - '#3B407C'
-    - '#547AB1'
-    - '#CEAFC0'
+    - '#ffffff'
+    - '#0a0a0c'
+    - '#403f3b'
+    - '#6aa0cc'
+    - '#baae9e'
   brandStrength: 0.8776173298247159
   lightness: 0.7038146632257849
   saturation: 0.9948978708125651
